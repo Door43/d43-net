@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[net:home|Door43 (net)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-net|d43-net repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-net/archive/master.zip|d43-net.zip]]
+
+**Recent Changes**
+{{changes>ns = net}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/net|Ethnologue data]]
+
